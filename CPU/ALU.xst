@@ -1,0 +1,5 @@
+set -tmpdir "E:/ComputerArchitcture/P5/CPU/xst/projnav.tmp"
+set -xsthdpdir "E:/ComputerArchitcture/P5/CPU/xst"
+elaborate
+-ifn ALU.prj
+-ifmt mixed

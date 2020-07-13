@@ -1,0 +1,69 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to E:/ComputerArchitcture/P5/CPU/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.20 secs
+ 
+--> Parameter xsthdpdir set to E:/ComputerArchitcture/P5/CPU/xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.20 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "PC.v" in library work
+Compiling verilog file "NPC.v" in library work
+Module <PC> compiled
+Compiling verilog file "M_W.v" in library work
+Module <NPC> compiled
+Compiling verilog file "MUX4to1_32.v" in library work
+Module <M_W> compiled
+Compiling verilog file "MUX3to1_32.v" in library work
+Module <MUX4to1_32> compiled
+Compiling verilog file "MUX2to1_5.v" in library work
+Module <MUX3to1_32> compiled
+Compiling verilog file "MUX2to1_32.v" in library work
+Module <MUX3to1_5> compiled
+Compiling verilog file "IM.v" in library work
+Module <MUX2to1_32> compiled
+Compiling verilog file "GRF.v" in library work
+Module <IM> compiled
+Compiling verilog file "F_D.v" in library work
+Module <GRF> compiled
+Compiling verilog file "E_M.v" in library work
+Module <F_D> compiled
+Compiling verilog file "EXT.v" in library work
+Module <E_M> compiled
+Compiling verilog file "D_E.v" in library work
+Module <EXT> compiled
+Compiling verilog file "DM.v" in library work
+Module <D_E> compiled
+Compiling verilog file "CMP.v" in library work
+Module <DM> compiled
+Compiling verilog file "ALU.v" in library work
+Module <CMP> compiled
+Compiling verilog file "DataPath.v" in library work
+Module <ALU> compiled
+Module <DataPath> compiled
+No errors in compilation
+Analysis of file <"DataPath.prj"> succeeded.
+ 
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.27 secs
+ 
+--> 
+
+Total memory usage is 4505796 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

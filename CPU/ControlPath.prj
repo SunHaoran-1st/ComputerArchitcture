@@ -1,0 +1,6 @@
+verilog work "Splitter.v"
+verilog work "MUX2to1_5.v"
+verilog work "Make_TuseTnew.v"
+verilog work "Hazard.v"
+verilog work "Control.v"
+verilog work "ControlPath.v"
